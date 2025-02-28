@@ -1,2 +1,4 @@
 # Breadustry
-Bread texture pack for mindustry
+Delicious texture pack for mindustry
+
+Replaces some sprites with food
