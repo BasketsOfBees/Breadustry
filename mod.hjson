@@ -1,0 +1,7 @@
+name: Breadustry,
+displayName: Breadustry,
+author: "None",
+description: "I'm learning how to mod, this is an attempt to make a texture pack.",
+version: 0
+hidden: true,
+minGameVersion: 146
