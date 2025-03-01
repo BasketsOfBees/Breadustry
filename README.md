@@ -8,3 +8,5 @@ Sprites that are currently effected:
 Crawler ---> Chocolate chip cookie
 
 Atrax ---> Watermelon
+
+More will be added in the future (no promises though!).
