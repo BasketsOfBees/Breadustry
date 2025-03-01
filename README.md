@@ -5,3 +5,4 @@ Replaces some sprites with food
 
 Sprites that are currently effected:
 Crawler ---> Chocolate chip cookie
+Atrax ---> Watermelon
