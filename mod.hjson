@@ -1,7 +1,16 @@
 name: Breadustry,
 displayName: Breadustry,
 author: "None",
-description: "I'm learning how to mod, this is an attempt to make a texture pack.",
+description: "
+
+I'm learning how to mod, this is an attempt to make goofy texture pack.
+
+Changes:
+Crawler ---> cookie
+Atrax ---> watermelon
+Eclipse ---> flying spaghetti monster
+
+",
 version: 0
 hidden: true,
 minGameVersion: 146
