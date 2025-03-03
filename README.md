@@ -1,5 +1,5 @@
 # Breadustry
-Delicious texture pack for mindustry
+Delicious texture pack for mindustry, incredibly cursed and not mindustry style
 
 Replaces some sprites with food
 
