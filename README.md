@@ -9,6 +9,6 @@ Crawler ---> Chocolate chip cookie
 
 Atrax ---> Watermelon
 
-Eclipse ---> Spaghetti
+Eclipse ---> Flying Spaghetti Monster
 
 More will be added in the future (no promises though!).
