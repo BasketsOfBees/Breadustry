@@ -11,4 +11,3 @@ Atrax ---> Watermelon
 
 Eclipse ---> Flying Spaghetti Monster
 
-More will be added in the future (no promises though!).
